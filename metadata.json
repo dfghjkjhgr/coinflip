@@ -1,0 +1,20 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "negativesector@protonmail.com",
+                "Name": "Charles Yawson"
+            }
+        ],
+        "Category": "Games",
+        "Description": "A widget to take over the world!",
+        "Icon": "draw-circle",
+        "Id": "org.neocities.negsec",
+        "Name": "Flip a Coin",
+        "Version": "1",
+        "Website": "https://example.com/user/plasmoid-helloworldplugin",
+        "BugReportUrl": "https://example.com/user/plasmoid-helloworldplugin/bugs"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "KPackageStructure": "Plasma/Applet"
+}
